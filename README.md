@@ -5,7 +5,7 @@ I'm a passionate software developer with a keen interest in Artificial Intellige
 
 ## 💡 What I Do
 - 🧠 **AI Enthusiast** – Constantly exploring the latest advancements in machine learning and AI.
-- 💻 **Senior Software Enginer Consultant @ CGI**
+- 💻 **Senior Software Enginer Consultant @ [CGI](https://www.cgi.com/en)**
 - 🏢 **Founder @ SwapStack** – Developing software solutions for business.
 - 🔬 **Tech Explorer** – Always learning new technologies and frameworks.
 
