@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sonny Lloyd! 👋
 
-<!--
-**sonnylloyd/sonnylloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate software developer with a keen interest in Artificial Intelligence, currently working at **CGI** while also running my own software company, **[SwapStack](https://swapstack.co.uk)**. I love building innovative solutions that leverage AI and automation to solve real-world problems.
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- 🧠 **AI Enthusiast** – Constantly exploring the latest advancements in machine learning and AI.
+- 💻 **Senior Software Enginer Consultant @ CGI**
+- 🏢 **Founder @ SwapStack** – Developing software solutions for business.
+- 🔬 **Tech Explorer** – Always learning new technologies and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- 💼 **LinkedIn:** [Sonny Lloyd](https://www.linkedin.com/in/sonnylloyduk/)
+- 🌐 **Website:** [swapstack.co.uk](https://swapstack.co.uk)
+
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, C#, PHP
+- **AI & ML:** TensorFlow
+- **Web Dev:** Vue, Node.js, PHP, C#
+- **Databases:** PostgreSQL, Kuzzle, MYSQL
+- **Cloud & DevOps:** Azure, Docker, Kubernetes
+
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonnylloyd&show_icons=true&theme=radical)
+
+Let's build something amazing together! 🚀
