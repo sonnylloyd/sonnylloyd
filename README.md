@@ -1,7 +1,7 @@
 # Hi there, I'm Sonny Lloyd! 👋
 
 ## 🚀 About Me
-I'm a passionate software developer with a keen interest in Artificial Intelligence, currently working at **CGI** while also running my own software company, **[SwapStack](https://swapstack.co.uk)**. I love building innovative solutions that leverage AI and automation to solve real-world problems.
+I'm a passionate software developer with a keen interest in Artificial Intelligence, currently working at **[CGI](https://www.cgi.com/en)** while also running my own software company, **[SwapStack](https://swapstack.co.uk)**. I love building innovative solutions that leverage AI and automation to solve real-world problems.
 
 ## 💡 What I Do
 - 🧠 **AI Enthusiast** – Constantly exploring the latest advancements in machine learning and AI.
